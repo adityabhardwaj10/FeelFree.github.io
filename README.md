@@ -7,4 +7,4 @@ This is a women-centric healthcare website that tries to break all the taboos wh
 Html,Css,JavaScript,PhP
 
 # Hosting
-Github
+Netlify
